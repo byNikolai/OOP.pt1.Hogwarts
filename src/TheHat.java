@@ -55,6 +55,7 @@ public class TheHat {
         System.out.println("");
         draco.print();
         System.out.println("");
+        System.out.println("");
 
         harry.compareGryffindor(hermione);
         System.out.println("");
